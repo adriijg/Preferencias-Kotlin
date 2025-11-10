@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnIr
+id btnVolver
+id etNombre2
+id txtNombre
+layout activity_detail
+layout activity_login
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Preferencias
+style Theme.Preferencias
+xml backup_rules
+xml data_extraction_rules
